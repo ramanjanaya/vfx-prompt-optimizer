@@ -220,5 +220,5 @@ evaluation:
 
 ---
 
-## Confirmation
-Do you prefer a single unified generator (one master selector + templates), or separate domain-specific generators? Also share any preferred tools or output formats to tailor future prompt builds.
+## Generator Mode
+This guide uses a **single unified generator** (one master selector + domain templates). Provide preferred tools or output formats to tailor prompt builds.
